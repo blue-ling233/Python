@@ -348,6 +348,7 @@
   * [Electrical Impedance](electronics/electrical_impedance.py)
   * [Ind Reactance](electronics/ind_reactance.py)
   * [Ohms Law](electronics/ohms_law.py)
+  * [Real And Reactive Power](electronics/real_and_reactive_power.py)
   * [Resistor Equivalence](electronics/resistor_equivalence.py)
   * [Resonant Frequency](electronics/resonant_frequency.py)
 
@@ -483,6 +484,7 @@
   * [Astar](machine_learning/astar.py)
   * [Data Transformations](machine_learning/data_transformations.py)
   * [Decision Tree](machine_learning/decision_tree.py)
+  * [Dimensionality Reduction](machine_learning/dimensionality_reduction.py)
   * Forecasting
     * [Run](machine_learning/forecasting/run.py)
   * [Gradient Descent](machine_learning/gradient_descent.py)
